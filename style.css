@@ -1,0 +1,62 @@
+
+
+#full{
+    border: 10px solid rgb(136, 80, 8); 
+    height: 788px;
+    width: 516px;
+    border-radius: 25px;
+    background-image: url("rainforest.jpg");
+    color: rgb(255, 220, 23);
+    font-family: impact;
+    font-size:48; 
+    text-align: center;
+}
+#animal{
+    background: rgba(91, 148, 25, 0.271);
+    border-radius: 25px;
+    border: 7px solid rgb(255, 129, 0);
+    height: 140px;
+    width: 286px;
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+    margin: 50px;
+  }
+
+ul {
+	background: rgba(136, 215, 47, 0.493);
+	border: 5px solid rgb(255, 255, 255);
+    border-radius: 25px; 
+    margin: 10px;
+	list-style-type: none; 
+}
+
+
+h2 {
+    color: rgb(237, 142, 42);
+    text-shadow: 2px 2px #f0da13;
+    font-size: 32pt;
+    margin: 30px;
+}
+body {
+	background: rgb(8, 22, 4);
+}
+
+
+h3{
+	
+	border-radius: 25px; 
+	margin: 15px;
+    height: 100px;
+    width: 300px;
+
+}
+p{
+	
+	border-radius: 25px; 
+	margin: 10px;
+    max-height: 300px;
+    max-width: 500px;
+
+}
+		
